@@ -1,6 +1,6 @@
  ### Boas vindas ao meu perfil ⭐
 
-Meu nome é Kauane Drago Madalena 😻
+Meu nome é KAUANE DRAGO MADALENA 😻
 - Estou estudando no Alura;
 - me desenvolvendo na linguagem Javascript.
 - Uso esse espaço para me organizar e compartilhar meus projetos desenvolvidos.
